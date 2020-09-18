@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# todo-vue
+# KOPADZE-TODO-APP
+
 i build this todo app for learning purposes
 
 > A Vue.js project
