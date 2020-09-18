@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 # todo-vue
+i build this todo app for learning purposes
 
 > A Vue.js project
 
