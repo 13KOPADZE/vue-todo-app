@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # todo-vue
 
 > A Vue.js project
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vue-todo-app
+>>>>>>> 1f0732e0a2b822408b364cbc532aa2a5ea9185dd
